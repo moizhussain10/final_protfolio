@@ -13,7 +13,7 @@ export const projects = [
   { name: 'React Todo App', url: 'react-todo-frontedpart.vercel.app', desc: 'A fast CRUD app on React and Vite, with tasks stored in MongoDB Atlas.', stack: ['React', 'Vite', 'MongoDB Atlas'] },
   { name: 'React Air-for-Share', url: 'react-air-for-share.vercel.app', desc: 'Share text and media between your devices in real time.', stack: ['React', 'Firebase', 'Cloudinary'] },
   { name: 'Ride Sharing App', url: 'unroute.vercel.app', desc: 'Schedule rides in real time and optimize the route.', stack: ['React'] },
-  { name: 'Sales Management System', url: 'https://bloomeffekt.freehosting.dev/', desc: 'Manage your sales with all your records.', stack: ['React', 'Php', 'MySql'] },
+  { name: 'Sales Management System', url: 'bloomeffekt.freehosting.dev/', desc: 'Manage your sales with all your records. (Id: admin Pass: admin123)', stack: ['React', 'Php', 'MySql'] },
 ]
 
 export const experience = [
